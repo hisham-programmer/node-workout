@@ -1,1 +1,3 @@
-console.log("Hello This Is Node.js")
+console.log("Task1");
+console.log("Task2");
+console.log("Task3");
