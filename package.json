@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "author": "Hisham",
-  "type": "commonJs",    
+  "type": "module",    
   "main": "app.js",
   "scripts": {
     "test": "node test",

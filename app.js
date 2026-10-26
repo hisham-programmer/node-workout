@@ -1,14 +1,3 @@
- //import getUsers from './user.js';
- //import { getAllProducts } from './product.js';
-
-const getUsers        = require("./user")
-const {getAllProducts,getSingleProduct}  = require("./Product")
-
-
-const userList = getUsers();
-const productList = getAllProducts()
-const singleProduct = getSingleProduct(18)
-
-console.log("singleProduct=====>",singleProduct)
-console.log("AllProducts=====>",productList)
-console.log("users=====>",userList)
+import {add,sub} from './math.js';
+console.log(add(5,5));
+console.log(sub(5,5));
