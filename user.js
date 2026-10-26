@@ -15,6 +15,6 @@
         }
     ]
 }
-module.exports = getUsers
+module.exports=getUsers;
 
 
