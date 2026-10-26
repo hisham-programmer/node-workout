@@ -1,0 +1,22 @@
+{
+  "name": "teaching-app",
+  "version": "1.0.0",
+  "description": "learning purpose",
+  "homepage": "https://github.com/hisham-programmer/node-workout.git#readme",
+  "bugs": {
+    "url": "https://github.com/hisham-programmer/node-workout/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisham-programmer/node-workout.git"
+  },
+  "license": "MIT",
+  "author": "Hisham",
+  "type": "module",    
+  "main": "app.js",
+  "scripts": {
+    "test": "node test",
+    "start" : "node app.js",
+    "dev" : "node app.js"
+  }
+}
