@@ -1,6 +1,6 @@
- import productList from './json/product.json' with { type: 'json' };
+//import productList from './json/product.json' with { type: 'json' };
 
-//const productList = require("./json/product.json")
+const productList = require("./json/product.json")
 
 function getAllProducts() {
     return productList;
