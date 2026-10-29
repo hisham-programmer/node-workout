@@ -1,0 +1,12 @@
+{
+  "name": "node-workout",
+  "version": "1.0.0",
+  "description": "Learning",
+  "license": "ISC",
+  "author": "Hisham",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  }
+}
