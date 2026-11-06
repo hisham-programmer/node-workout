@@ -2,7 +2,7 @@ import http from 'http'
 import routes from './route/routes.js'
 
 const server = http.createServer( async (req, res) => {
-    res.writeHead(200, {"content-Type":"application/json"})
+    res.writeHead(200, {"content-Type":"app/json"})
 
     try {
         const response = await routes(req)
