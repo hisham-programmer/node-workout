@@ -1,7 +1,7 @@
 import express from 'express'
 
 const app = express() 
-const PORT = 8000
+const PORT = 8080
 
 app.get("/",(req,res)=>{
     res.send("Hello i am express js")
