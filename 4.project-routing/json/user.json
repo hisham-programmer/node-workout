@@ -1,0 +1,13 @@
+[
+    {
+        "name": "hisham",
+        "age" : 21,
+        "course":"react"
+    },
+    {
+        "name": "Abdul",
+        "age" : 40,
+        "course":"node"
+    }
+    
+]
